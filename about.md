@@ -10,11 +10,11 @@ I am studying Meteorology at the <img src="logo_univie.png" alt="University of V
 ---
 &nbsp;
 
-#### My work at the Department of Meteorology &nbsp; <img src="logo_imgw.png" alt="IMGW" height="40"/>
+My work at the Department of Meteorology:
 
-- [Bachelorarbeit: Parametrisierung der Bodentemperatur](https://homepage.univie.ac.at/a1254888/BA_Kugler.pdf)
+- [Bachelor thesis: Parametrisierung der Bodentemperatur](https://homepage.univie.ac.at/a1254888/BA_Kugler.pdf)
 
-- Masterarbeit: Comparison of statistical and machine-learning methods for forecasting of wind-turbine icing. (in progress)
+- Master thesis (in progress): The added value of machine-learning methods in forecasting wind turbine icing. [[Abstract]](https://homepage.univie.ac.at/a1254888/MA-pres1-abstract.pdf)
 
 
 
