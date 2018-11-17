@@ -5,7 +5,4 @@
 layout: home
 ---
 
-Hi, my main project at university currently is my Master thesis, "The added value of machine-learning methods in forecasting wind turbine icing". [[Abstract]](https://homepage.univie.ac.at/a1254888/MA-pres1-abstract.pdf)
-
-Upcoming:
-- First presentation at the Master's seminar on 14 Nov 
+Hi, my main project at university currently is my Master's thesis, "The added value of machine-learning methods in forecasting wind turbine icing". [[Abstract]](https://homepage.univie.ac.at/a1254888/MA-pres1-abstract.pdf)
