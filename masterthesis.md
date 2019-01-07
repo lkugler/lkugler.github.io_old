@@ -13,7 +13,7 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 
 
 ### Resources
-First presentation in the Master's seminar: [(Slides as PDF)]](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf)
+First presentation in the Master's seminar: [(Slides as PDF)](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf)
 
 #### Literature
 
