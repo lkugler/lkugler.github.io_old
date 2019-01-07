@@ -13,7 +13,7 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 
 
 ### Resources
-First presentation in the Master's seminar: [(Slides as PDF)](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf)
+- First presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres1.pptx))
 
 #### Literature
 
@@ -26,7 +26,7 @@ First presentation in the Master's seminar: [(Slides as PDF)](https://homepage.u
 | [Prof. Yaser's Machine Learning Course - CS 156, provided by Caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A) |     <a href="https://www.youtube.com/playlist?list=PLD63A284B7615313A"><img src="https://i.ytimg.com/vi/FIbVs5GbBlQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCABp2TWr57I6xQmDuu4-1cQF6MAg" alt="Animation" height="100"/></a> |
 
 
-#### Machine Learning
+#### Machine Learning Literature
 
 | [Proof: The RBF Kernel as mapping into an infinite dimensional feature space](http://pages.cs.wisc.edu/~matthewb/pages/notes/pdf/svms/RBFKernel.pdf) |
 | Friedman, J., Hastie, T., & Tibshirani, R. (2009). The elements of statistical learning (Vol. 2). New York, NY, USA:: Springer series in statistics. |
