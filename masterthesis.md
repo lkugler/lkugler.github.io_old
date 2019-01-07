@@ -13,6 +13,8 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 
 
 ### Resources
+First presentation in the Master's seminar: [(Slides as PDF)]](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf)
+
 #### Literature
 
 | Davis, N., Hahmann, A. N., Clausen, N-E., & Zagar, M. (2014). [Icing Impacts on Wind Energy Production.](http://orbit.dtu.dk/en/publications/icing-impacts-on-wind-energy-production(8dfa9669-5ac8-4997-bed4-aeeaae3b7061).html) DTU Wind Energy. | Introduces the IceBlade physical icing model, includes a bit of statistical postprocessing |
@@ -24,7 +26,8 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 | [Prof. Yaser's Machine Learning Course - CS 156, provided by Caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A) |     <a href="https://www.youtube.com/playlist?list=PLD63A284B7615313A"><img src="https://i.ytimg.com/vi/FIbVs5GbBlQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCABp2TWr57I6xQmDuu4-1cQF6MAg" alt="Animation" height="100"/></a> |
 
 
-#### Textbooks
+#### Machine Learning
 
+| [Proof: The RBF Kernel as mapping into an infinite dimensional feature space](http://pages.cs.wisc.edu/~matthewb/pages/notes/pdf/svms/RBFKernel.pdf) |
 | Friedman, J., Hastie, T., & Tibshirani, R. (2009). The elements of statistical learning (Vol. 2). New York, NY, USA:: Springer series in statistics. |
 | Hsieh, W. W. (2009). Machine learning methods in the environmental sciences: Neural networks and kernels. Cambridge university press. |
