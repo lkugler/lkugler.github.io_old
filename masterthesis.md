@@ -14,6 +14,7 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 
 ### Resources
 - First presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres1.pptx))
+- Second presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres2.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres2.pptx))
 
 #### Literature
 
@@ -38,4 +39,4 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 | [Vapnik, V. (1992). Principles of risk minimization for learning theory. In Advances in neural information processing systems (pp. 831-838)](http://papers.nips.cc/paper/506-principles-of-risk-minimization-for-learning-theory.pdf) |
 | Vapnik, V. N., 1999: An overview of statistical learning theory. IEEE transactions on neural networks, 10 (5), 988–999. |
 | [Proof: The RBF Kernel as mapping into an infinite dimensional feature space](http://pages.cs.wisc.edu/~matthewb/pages/notes/pdf/svms/RBFKernel.pdf) |
-| Smola, A. J., and B. Schölkopf, 2004: A tutorial on support vector regression. Statistics and computing, 14 (3), 199–222. |
+| Smola, A. J., and B. Schölkopf, 2004: A tutorial on support vector regression. Statistics and computing, 14 (3), 199–222. |
