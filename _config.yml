@@ -16,7 +16,7 @@
 title: Lukas Kugler
 email: a1254888@univie.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
-  MSc Student in Meteorology, NWP Model Developer at UBIMET
+  MSc Student in Meteorology
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 researchgate_username: Lukas_Kugler

@@ -11,4 +11,3 @@ permalink: /wb/
 | [GFS Wien Ensemble Animation der letzten Läufe](http://82.149.119.104/gfs_ens.gif) | <a href="http://82.149.119.104/gfs_ens.gif"><img src="http://82.149.119.104/gfs_ens.gif" alt="Animation" height ="200"/></a> |
 
 #### [Link zum Raspberry Archiv](http://82.149.119.104/data/)
-
