@@ -16,18 +16,6 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 - First presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres1.pptx))
 - Second presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres2.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres2.pptx))
 
-#### Literature
-
-| Davis, N., Hahmann, A. N., Clausen, N-E., & Zagar, M. (2014). [Icing Impacts on Wind Energy Production.](http://orbit.dtu.dk/en/publications/icing-impacts-on-wind-energy-production(8dfa9669-5ac8-4997-bed4-aeeaae3b7061).html) DTU Wind Energy. | Introduces the IceBlade physical icing model, includes a bit of statistical postprocessing |
-| Zhang, L., K. Liu, Y. Wang, and Z. Omariba, 2018: Ice detection model of wind turbine blades based on random
-forest classifier. Energies, 11 (10), 2548. | . |
-| Niu, D., Liang, Y., Wang, H., Wang, M., & Hong, W. C. (2017). Icing Forecasting of Transmission Lines with a Modified Back Propagation Neural Network-Support Vector Machine-Extreme Learning Machine with Kernel (BPNN-SVM-KELM) Based on the Variance-Covariance Weight Determination Method. Energies, 10(8), 1196. |
-
-
-#### Machine Learning in Meteorology (examples)
-
-| Rasp, S., and S. Lerch, 2018: Neural networks for postprocessing ensemble weather forecasts. Monthly Weather Review, 146, doi:10.1175/MWR-D-18-0187.1. |
-| Rasp, S., M. S. Pritchard, and P. Gentine, 2018: Deep learning to represent subgrid processes in climate models. Proceedings of the National Academy of Sciences, 115, 201810 286, doi:10.1073/pnas.1810286115. |
 
 #### Introduction to Machine Learning
 
@@ -41,5 +29,4 @@ forest classifier. Energies, 11 (10), 2548. | . |
 | Hsieh, W. W. (2009). Machine learning methods in the environmental sciences: Neural networks and kernels. Cambridge university press. |
 | [Vapnik, V. (1992). Principles of risk minimization for learning theory. In Advances in neural information processing systems (pp. 831-838)](http://papers.nips.cc/paper/506-principles-of-risk-minimization-for-learning-theory.pdf) |
 | Vapnik, V. N., 1999: An overview of statistical learning theory. IEEE transactions on neural networks, 10 (5), 988–999. |
-| [Proof: The RBF Kernel as mapping into an infinite dimensional feature space](http://pages.cs.wisc.edu/~matthewb/pages/notes/pdf/svms/RBFKernel.pdf) |
-| Smola, A. J., and B. Schölkopf, 2004: A tutorial on support vector regression. Statistics and computing, 14 (3), 199–222. |
+
