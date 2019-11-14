@@ -19,7 +19,7 @@ In this study, the added value of using machine-learning (ML) methods over simpl
 
 #### Introduction to Machine Learning
 
-| [Prof. Yaser's Machine Learning Course - CS 156, provided by Caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A) |     <a href="https://www.youtube.com/playlist?list=PLD63A284B7615313A"><img src="https://i.ytimg.com/vi/FIbVs5GbBlQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCABp2TWr57I6xQmDuu4-1cQF6MAg" alt="Animation" height="100"/></a> |
+| [Prof. Yaser's Machine Learning Course - CS 156, provided by Caltech](https://www.youtube.com/playlist?list=PLD63A284B7615313A) |
 | Breiman, L., and Coauthors, 2001: Statistical modeling: The two cultures (with comments and a rejoinder by the author). Statistical science, 16 (3), 199–231. |
 
 
