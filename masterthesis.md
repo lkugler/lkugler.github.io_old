@@ -5,6 +5,12 @@ permalink: /mthesis/
 ---
 
 ### The Added Value of Machine Learning in Forecasting Wind Turbine Icing
+
+<img src="https://www.researchgate.net/profile/Lukas_Kugler/publication/338015101/figure/fig14/AS:837478109962250@1576681749723/The-expense-matrix-assigns-cost-C-to-true-positive-TP-and-false-positive-FP_W640.jpg" alt="Image Expense Matrix"
+width="300" />
+
+![Image PEV Gain](http://homepage.univie.ac.at/a1254888/mthes1.jpg)
+
 #### Abstract
 
 Icing events at wind turbines in elevated areas cause unexpected outages in power production and significant costs. More accurate forecasts would improve power production predictability and could partially reduce downtimes. Thus, advanced post-processing by machine-learning methods is applied to obtain probabilistic forecasts. The quality and improvement by using advanced methods is estimated in terms of the forecasts’ discrimination, calibration and economic value. The results confirm that the proposed machine-learning methods significantly outperform empirical & logistic classification approaches for customers with relatively high cost-loss ratios.
