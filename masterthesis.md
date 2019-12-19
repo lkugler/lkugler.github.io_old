@@ -4,17 +4,26 @@ title: Master's thesis
 permalink: /mthesis/
 ---
 
-### The added value of machine-learning methods in forecasting wind turbine icing
+### The Added Value of Machine Learning in Forecasting Wind Turbine Icing
 #### Abstract
 
-Icing events at wind turbines in elevated areas (above 600 m altitude) cause unplanned downtimes and significant costs. The Austrian research initiative ICE CONTROL aims to improve icing forecasts which are commonly provided by applying a decision criterion of Temperature and Humidity on numerical weather forecasts or physical icing models to classify whether or not there will be blade icing in a certain time interval. Given that observations exist, simple statistical tools like logistic regression can provide calibrated probabilities.
-In this study, the added value of using machine-learning (ML) methods over simple statistical tools shall be quantified. Incorporating ensemble forecasts and latest observations may lead to a significant forecast improvement by providing additional information over a single deterministic run. However, it is not clear that ML supersedes simpler models because turbine icing is a rare event and more complex models generally need more data, especially if trained on noisy data due to forecast errors of numerical weather prediction models. The algorithms to be studied include support vector machines and decision trees (implemented in the python package *scikit-learn*), generalized additive models (*pyGAM*) and artificial neural nets (*keras*).
-[PDF Abstract](https://homepage.univie.ac.at/a1254888/MA-pres1-abstract.pdf)
+Icing events at wind turbines in elevated areas cause unexpected outages in power production and significant costs. More accurate forecasts would improve power production predictability and could partially reduce downtimes. Thus, advanced post-processing by machine-learning methods is applied to obtain probabilistic forecasts. The quality and improvement by using advanced methods is estimated in terms of the forecasts’ discrimination, calibration and economic value. The results confirm that the proposed machine-learning methods significantly outperform empirical & logistic classification approaches for customers with relatively high cost-loss ratios.
+
+The idea for this thesis originates from the Austrian research initiative ICE CONTROL which aims to improve icing forecasts that are commonly obtained by applying an empirical decision criterion on temperature and humidity from numerical weather forecasts. Another approach is to drive physical icing models from numerical weather prediction (NWP) models to classify whether or not there will be rotor blade icing within a certain time interval. Finally, as soon as in-situ observations exist, simple statistical tools like logistic regression can provide calibrated probabilities. Logistic regression, however, is not able to model the intrinsic multiplicative structure of icing, where multiple factors must be present at the same time to a sufficient extent to produce icing.
+
+In this study, the added value of using machine-learning (ML) methods over simple statistical tools was quantified. Despite of ML models’ higher complexity, it is not clear for them to su- persede simpler models because the studied events are quite rare with occurrence rates between 5 and 25 % leading to class imbalance problems, as well as a possible lack of samples with data of only two winter seasons.
+
+The evaluation included logistic regression, generalized additive models (GAM), support vector machines (SVM), decision trees and artificial neural networks. The NWP input data was taken from the Weather Research and Forecasting Model (WRF) which was run specifically for this project in a 2-domain configuration that downscales ECMWF’s IFS model from 12.5 km to a 2.5 km resolution inner nest.
+
+The verification was conducted using measurements that were taken directly on the nacelle of a wind turbine at a wind farm near Ellern, Germany. Three different classes of icing were used as predictand: Meteorological icing, defined by atmospheric temperature and dewpoint spread; Instrumental icing, defined by a visual classification of camera images that detects icing on the turbine; and lastly the Visible accretion which describes times with increasing amounts of ice on the turbine as seen by the camera.
+
 
 
 ### Resources
 - First presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres1.pptx))
 - Second presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres2.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres2.pptx))
+- pre-work abstract [[PDF]](https://homepage.univie.ac.at/a1254888/MA-pres1-abstract.pdf)
+- Full Text [[HTML/PDF]](https://www.researchgate.net/publication/338015101_The_Added_Value_of_Machine_Learning_in_Forecasting_Wind_Turbine_Icing)
 
 
 #### Introduction to Machine Learning
