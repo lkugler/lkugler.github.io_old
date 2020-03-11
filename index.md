@@ -5,6 +5,7 @@
 layout: home
 ---
 
+
 Recent projects:
 
 - Master's thesis: The Added Value of Machine Learning in Forecasting Wind Turbine Icing. [[Full Text]](https://www.researchgate.net/publication/338015101_The_Added_Value_of_Machine_Learning_in_Forecasting_Wind_Turbine_Icing)
