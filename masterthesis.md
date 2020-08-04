@@ -9,7 +9,7 @@ permalink: /mthesis/
 <img src="https://www.researchgate.net/profile/Lukas_Kugler/publication/338015101/figure/fig14/AS:837478109962250@1576681749723/The-expense-matrix-assigns-cost-C-to-true-positive-TP-and-false-positive-FP_W640.jpg" alt="Image Expense Matrix"
 width="300" />
 
-![Image PEV Gain](http://homepage.univie.ac.at/a1254888/mthes1.jpg)
+![Image PEV Gain](https://github.com/lkugler/lkugler.github.io/raw/master/_data/mthes1.jpg)
 
 #### Abstract
 
@@ -26,9 +26,9 @@ The verification was conducted using measurements that were taken directly on th
 
 
 ### Resources
-- First presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres1.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres1.pptx))
-- Second presentation in the Master's seminar (Slides in German: [PDF](https://homepage.univie.ac.at/a1254888/MA-pres2.pdf), [PPTX](https://homepage.univie.ac.at/a1254888/MA-pres2.pptx))
-- pre-work abstract [[PDF]](https://homepage.univie.ac.at/a1254888/MA-pres1-abstract.pdf)
+- First presentation in the Master's seminar (Slides in German: [PDF](https://github.com/lkugler/lkugler.github.io/raw/master/_data/MA-pres1.pdf), [PPTX](https://github.com/lkugler/lkugler.github.io/raw/master/_data/MA-pres1.pptx))
+- Second presentation in the Master's seminar (Slides in German: [PDF](https://github.com/lkugler/lkugler.github.io/raw/master/_data/MA-pres2.pdf), [PPTX](https://github.com/lkugler/lkugler.github.io/raw/master/_data/MA-pres2.pptx))
+- pre-work abstract [[PDF]](https://github.com/lkugler/lkugler.github.io/raw/master/_data/MA-pres1-abstract.pdf)
 - Full Text [[HTML/PDF]](https://www.researchgate.net/publication/338015101_The_Added_Value_of_Machine_Learning_in_Forecasting_Wind_Turbine_Icing)
 
 

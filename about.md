@@ -19,4 +19,4 @@ My work history:
 
 - From October 2017 to August 2019 I worked on WRF-LSM, model blending and more at Ubimet.
 
-- Bachelor thesis: Parametrisierung der Bodentemperatur (in German) [[PDF]](https://homepage.univie.ac.at/a1254888/BA_Kugler.pdf)
+- Bachelor thesis: Parametrisierung der Bodentemperatur (in German) [[PDF]](https://github.com/lkugler/lkugler.github.io/raw/master/_data/BA_Kugler.pdf)
